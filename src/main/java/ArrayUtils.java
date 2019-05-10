@@ -1,6 +1,3 @@
-package com.house365.finance.framework.util;
-
-
 /**
  * 有关数组的工具类
  * 
